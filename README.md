@@ -46,6 +46,3 @@ English Literature · Research Papers · Reality TV Shows · Music · History
 
 ---
 
-<p align="center">
-  <i>Learning by building. Improving by shipping.</i>
-</p>
