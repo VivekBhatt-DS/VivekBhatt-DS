@@ -2,30 +2,28 @@
 # Hey, I'm
 
 ```text
-██╗   ██╗██╗██╗   ██╗███████╗██╗  ██╗
-██║   ██║██║██║   ██║██╔════╝██║ ██╔╝
-██║   ██║██║██║   ██║█████╗  █████╔╝
-╚██╗ ██╔╝██║╚██╗ ██╔╝██╔══╝  ██╔═██╗
- ╚████╔╝ ██║ ╚████╔╝ ███████╗██║  ██╗
-  ╚═══╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝
+
+██╗   ██╗██╗██╗   ██╗███████╗██╗  ██╗    ██████╗ ██╗  ██╗ █████╗ ████████╗████████╗
+██║   ██║██║██║   ██║██╔════╝██║ ██╔╝    ██╔══██╗██║  ██║██╔══██╗╚══██╔══╝╚══██╔══╝
+██║   ██║██║██║   ██║█████╗  █████╔╝     ██████╔╝███████║███████║   ██║      ██║
+╚██╗ ██╔╝██║╚██╗ ██╔╝██╔══╝  ██╔═██╗     ██╔══██╗██╔══██║██╔══██║   ██║      ██║
+ ╚████╔╝ ██║ ╚████╔╝ ███████╗██║  ██╗    ██████╔╝██║  ██║██║  ██║   ██║      ██║
+  ╚═══╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝
 ```
 
-> Building with data, AI and software.
+> Building AI that doesn't replace me, but gets me hired instead.
 
-![Degree](https://img.shields.io/badge/B.E.-Computer%20Science-blue)
+![Degree](https://img.shields.io/badge/B.E.-CSE-blue)
 ![Specialization](https://img.shields.io/badge/Specialization-Data%20Science-00A98F)
 ![University](https://img.shields.io/badge/University-Chandigarh%20University-orange)
-![Year](https://img.shields.io/badge/Academic%20Year-2026--27-green)
+![Year](https://img.shields.io/badge/Year-2nd%20Year-green)
+![Location](https://img.shields.io/badge/Location-Chandigarh%2C%20India-red)
 
 ---
 
 ## About me
 
-I'm a Computer Science and Engineering student specializing in Data Science at Chandigarh University.
-
-I enjoy exploring how data, artificial intelligence and software engineering can be combined to solve real-world problems.
-
-Currently working on **UrbanEye AI**, an AI-powered urban intelligence platform designed to detect road issues and analyze traffic using public transport fleets.
+I independently turn unusual ideas into working software with limited resources.
 
 - Exploring AI, machine learning and data-driven systems.
 - Building practical projects and improving my software engineering skills.
@@ -44,7 +42,7 @@ Currently working on **UrbanEye AI**, an AI-powered urban intelligence platform 
 
 ## Also into
 
-Data Science · Artificial Intelligence · Machine Learning · Problem Solving · Software Engineering
+English Literature · Research Papers · Reality TV Shows · Music · History
 
 ---
 
